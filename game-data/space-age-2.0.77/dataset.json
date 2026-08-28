@@ -1,0 +1,12 @@
+{
+  "id": "space-age-2-0-77",
+  "name": "Space Age 2.0.77",
+  "version": "2.0.77",
+  "kind": "space-age",
+  "dataFile": "vanilla-2.0.77.json",
+  "expensiveFile": "vanilla-2.0.77-expensive.json",
+  "enabledMods": [
+    "base",
+    "space-age"
+  ]
+}
