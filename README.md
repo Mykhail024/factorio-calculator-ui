@@ -31,8 +31,13 @@ sprite sheets produced with [`factoriodump`](https://github.com/KirkMcDonald/fac
 Factorio. Those files are derived from Factorio game data and assets and are
 **not** licensed under this repository's Apache-2.0 license.
 
+These files are provided for personal, non-commercial use only. Redistribution
+or commercial use may be restricted by the Factorio Terms of Service.
 Factorio, Factorio: Space Age, associated game data, graphics, and trademarks
 are the property of Wube Software Ltd.
+
+Users are expected to generate their own datasets from a legally owned
+Factorio installation.
 
 Users must own the applicable game and DLC and must comply with the applicable
 Factorio license and terms when generating, using, copying, or redistributing
