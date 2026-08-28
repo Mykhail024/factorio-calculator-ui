@@ -8,16 +8,7 @@
   },
   "app": {
     "withGlobalTauri": true,
-    "windows": [
-      {
-        "title": "Factorio Calculator",
-        "width": 1000,
-        "height": 800,
-        "decorations": true,
-        "resizable": true,
-        "center": true
-      }
-    ],
+    "windows": [],
     "security": {
       "csp": null
     }
